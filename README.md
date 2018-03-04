@@ -1,6 +1,6 @@
 # Tensorflow-Jetson-TX2
 
-This repository holds prebuilt .whl files for installing Tensorflow on a Jetson TX2.
+This repository holds prebuilt .whl files for installing Tensorflow on a Jetson TX2.  Current builds include 1.4.1, 1.5.0, and 1.6.0.
 
 All .whl files can be found under `Releases` and currently each is built for Jetpack 3.1 (Python 2.7)
 
