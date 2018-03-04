@@ -9,8 +9,8 @@ All .whl files can be found under `Releases` and currently each is built for Jet
 To install Tensorflow on the Jetson, simply download the release that matches the needed version and `pip install` it as follows:
 
 ```
-wget --no-check-certificate <link-to-whl-file>
-sudo pip install <package-name>.whl
+$ wget --no-check-certificate <link-to-whl-file>
+$ sudo pip install <package-name>.whl
 ```
 
 ### ToDo List
