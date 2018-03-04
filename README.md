@@ -7,6 +7,13 @@ All .whl files can be found under `Releases` and currently each is built for Jet
 ToDo List
 
 - [x] Create Tensorflow wheels (.whl) for Python 2.7 (Jetpack 3.1)
-- [ ] Create Tensorflwo wheels (.whl) for Python 3.5 (Jetpack 3.1)
+- [ ] Create Tensorflow wheels (.whl) for Python 3.5 (Jetpack 3.1)
 - [ ] Create Tensorflow wheels (.whl) for Python 2.7 (Jetpack 3.2)
 - [ ] Create Tensorflow wheels (.whl) for Python 3.5 (Jetpack 3.2)
+- [ ] Merge repo for creating wheels from compiling Tensorflow source
+
+> NOTE: All wheel files were built from source using Bazel 0.10.1.  Other versions may work, but have note been tested.
+
+This repository would like to acknowledge the following Github repositories:
+
+- [jetsonhacks/installTensorFlowTX2](https://github.com/jetsonhacks/installTensorFlowTX2)
