@@ -4,6 +4,15 @@ This repository holds prebuilt .whl files for installing Tensorflow on a Jetson 
 
 All .whl files can be found under `Releases` and currently each is built for Jetpack 3.1 (Python 2.7)
 
+## Installing TF on Jetson TX2
+
+To install Tensorflow on the Jetson, simply download the release that matches the needed version and `pip install` it as follows:
+
+```
+wget --no-check-certificate <link-to-whl-file>
+sudo pip install <package-name>.whl
+```
+
 ### ToDo List
 
 - [x] Create Tensorflow wheels (.whl) for Python 2.7 (Jetpack 3.1)
