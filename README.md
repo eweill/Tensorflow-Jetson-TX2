@@ -4,7 +4,7 @@ This repository holds prebuilt .whl files for installing Tensorflow on a Jetson 
 
 All .whl files can be found under `Releases`.
 
-Currently 1.4.1, 1.5.0, and 1.6.0 are built for Jetpack 3.1 (Python 2.7)
+Currently 1.4.1, 1.5.0, 1.6.0, 1.7.0, and 1.10.0 are built for Jetpack 3.1 (Python 2.7)
 
 Currently 1.8.0 is built for Jetpack 3.2 (Python 2.7)
 
